@@ -1,1 +1,2 @@
 /Custom_Model/darknet/* filter=lfs diff=lfs merge=lfs -text
+/Config_and_weights/* filter=lfs diff=lfs merge=lfs -text
